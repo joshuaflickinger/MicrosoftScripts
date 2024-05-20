@@ -1,4 +1,4 @@
-﻿# This is an revised version of the file UpdateAzureAutomationGraphModules.PS1
+﻿# This is lightly revised version of the file UpdateAzureAutomationGraphModules.PS1
 # Original github: https://github.com/12Knocksinna/Office365itpros/blob/master/Update%20AzureAutomationGraphModules.PS1
 # A script to update the set of Graph modules for an Azure Automation account
 # Revision made 17-May-2024 - Now includes updating all modules on both 5.1 and 7.2 powershell.
